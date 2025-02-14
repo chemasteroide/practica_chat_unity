@@ -1,0 +1,18 @@
+Usuario 1 se ha conectado
+Usuario 2 se ha conectado
+Usuario 2: asdfasdf
+Usuario 1: fdsafdsa
+Usuario 1: adsasdf
+Usuario 1: sasasasas
+Usuario 1: adsf
+Usuario 1: a
+Usuario 1: sdf
+Usuario 1: as
+Usuario 1: df
+Usuario 1: as
+Usuario 1: df
+Usuario 3 se ha conectado
+Usuario 2: asdf
+Usuario 2 se ha desconectado
+Usuario 1 se ha desconectado
+Usuario 3 se ha desconectado
